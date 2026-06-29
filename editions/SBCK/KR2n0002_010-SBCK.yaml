@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2n0002/SBCK/v1/juan/10
+seq: 10
+front:
+  text: 衢本昭德先生郡齋讀書志目錄
+  hash: sha256:d754e140eb7a18aa083136588f6062c6ef4458ec5a14c25432eeeeb29f1355e2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0002_SBCK_010-1a}
+body:
+  text: 門人姚應績編第一卷經類揔論易類書類第二卷詩類禮類樂類第三卷春秋類孝經類第四卷論語類經解􅀋小學􅀋第五卷史類揔論正史類編年􅀋第六卷實錄􅀋雜史􅀋第七卷僞史類史評類職官類第八卷儀注類刑法􅁼地里類第九卷傳記􅀋譜諜類書目􅀋第十卷子􅀋揔論儒家􅀋第十一卷道家􅀋法家􅀋名家􅀋墨家􅀋緃横家􅀋第十二卷雜家􅀋農家􅀋第十三卷小說􅀋天文􅀋星暦􅀋第十四卷五行􅀋兵家􅀋􅀋書􅀋第十五卷藝術􅀋醫書􅀋第十六卷神仙􅀋釋書􅀋第十七卷集􅀋揔論楚辭􅀋別集􅀋上第十八卷別集􅀋中第十九卷別集􅀋下第二十卷揔集􅀋文說􅀋衢本昭德先生郡齋讀書志目錄
+  hash: sha256:7dd5dc623f69d2f3891a2a4d20ae853c83ef17650febefb4e1a101bd10892067
+metadata:
+  title: 昭德先生郡齋讀書志
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 00:46:10.793663'
+  source:
+    repository: kanripo
+    path: KR2n0002/KR2n0002_010.txt
+hash: sha256:73dea6fb6a2782eb2b741593e63d199c4d133d16dcd199865aa21edbf17c2e21

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2n0002/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五
+  hash: sha256:c9b87f516a38ea36a0ca35f5137d4676a0705b6af36302cac4b68927a1e42c60
+metadata:
+  title: 昭德先生郡齋讀書志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:46:10.793663'
+  source:
+    repository: kanripo
+    path: KR2n0002/KR2n0002_009.txt
+hash: sha256:e6c30d152685f7e8ada1861f93932af0524a81901d15ef93213bfc0a9fd02349

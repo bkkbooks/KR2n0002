@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2n0002/krp/v1/juan/10
+seq: 10
+front:
+  text: 衢本昭德先生郡齊讀書志目録
+  hash: sha256:9856fc69d7b28a4a99e017e0b0d7a1c1194dafb434ede71bed69f2009d5e5a7d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0002_SBCK_010-1a}
+body:
+  text: 門人姚應績編第一卷經類揔論易類書類第二卷詩類禮類樂類第三卷春秋類孝經類第四卷論語類經解類小學類第五卷史類揔論正史類編年類第六卷實録類雜史類第七卷僞史類史評類職官類第八卷儀注類刑法類地里類第九卷傳記類譜諜類書目類第十卷子類揔論儒家類第十一卷道家類法家類名家類墨家類緃橫家類第十二卷雜家類農家類第十三卷小說類天文類星曆類第十四卷五行類兵家類類書類第十五卷藝術類醫書類第十六卷神仙類釋書類第十七卷集類揔論楚辭類別集類上第十八卷別集類中第十九卷別集類下第二十卷揔集類文說類衢本昭德先生郡齊讀書志目録
+  hash: sha256:cc58c317d3d409a8f44888f6afe9a633bf0a0c96ef8e3654a85074574bbb7b98
+metadata:
+  title: 昭德先生郡齋讀書志
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 00:46:10.793663'
+  source:
+    repository: kanripo
+    path: KR2n0002/KR2n0002_010.txt
+hash: sha256:3a520c82c70f8342d08ff0e8791a2d79c471d91f32a053e9101c4701d131404f
