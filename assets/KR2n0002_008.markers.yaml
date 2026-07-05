@@ -19,7 +19,6 @@ markers:
   - {type: page-break, offset: 1, content: '', id: KR2n0002_WYG_004-114a, image: WYG0674/WYG0674-0298a.png}
   - {type: page-break, offset: 1, content: '', id: KR2n0002_WYG_004-114b, image: WYG0674/WYG0674-0298b.png}
   - {type: page-break, offset: 1, content: '', id: KR2n0002_WYG_004-115a, image: WYG0674/WYG0674-0298c.png}
-  - {type: substitution, offset: 2, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3483}}
   - {type: variant, offset: 3, length: 0, content: '', WYG: 某錢惟演及當時同館十五人唱和詩凡二百四十七章前有億序唐宋類詩二十卷右唐朝僧仁贊序稱羅唐兩士所編而不載其名分類編次唐及本朝祥符已前名人詩唐百家詩選二十卷右皇朝宋敏求次道編次道為三司判官嘗取其家所藏唐人一百八家詩選擇其佳者凡一千二百四十六首為一編王介甫觀之因再有所去取且題云欲觀唐詩者觀此足矣世遂以為介甫所纂寶刻叢章三十卷右皇朝宋敏求次道編次道聚天下古人詩歌石刻凡一千一百三十篇多有别集中所逸者以其相附近者相從又次以嵗月先後王益柔為之序云文章難能者莫如詩凡刻之金石者則必其自以為得或作於人所愛重者故多有清新瓌麗之語覽者其深究焉嵗時雜詠二十卷右皇朝宋綬編宣獻}
   - {type: page-break, offset: 3, content: '', id: KR2n0002_WYG_004-115b, image: WYG0674/WYG0674-0298d.png}
   - {type: page-break, offset: 3, content: '', id: KR2n0002_WYG_004-116a, image: WYG0674/WYG0674-0299a.png}
@@ -66,22 +65,18 @@ markers:
       ', id: KR2n0002_krp_008-bkkkrnewl6}
   - {type: line-break, offset: 44, content: '', id: KR2n0002_SBCK_008-1a06}
   - {type: indent, offset: 44, content: 　　　　　, id: KR2n0002_krp_008-bkkind8}
-  - {type: substitution, offset: 45, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4423}}
   - {type: variant, offset: 47, length: 24, content: 在嘉㝎時甞摹而藏之及南来不能悉與俱个併他所藏燬矣, WYG: 郡齋}
-  - {type: substitution, offset: 51, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0709}}
   - {type: 'kr:newline', offset: 53, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl7}
   - {type: line-break, offset: 53, content: '', id: KR2n0002_SBCK_008-1a07}
   - {type: indent, offset: 53, content: 　　　　　, id: KR2n0002_krp_008-bkkind9}
-  - {type: substitution, offset: 58, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0323}}
   - {type: variant, offset: 60, length: 1, content: 能, SBCK: 􅀎}
   - {type: 'kr:newline', offset: 62, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl8}
   - {type: line-break, offset: 62, content: '', id: KR2n0002_SBCK_008-1a08}
   - {type: indent, offset: 62, content: 　　　　　, id: KR2n0002_krp_008-bkkind10}
-  - {type: substitution, offset: 64, original: 个, replacement: 個, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0010}}
   - {type: variant, offset: 67, length: 1, content: 所, SBCK: 􅀁}
   - {type: 'kr:newline', offset: 71, content: '
 
@@ -184,7 +179,6 @@ markers:
   - {type: variant, offset: 85, length: 1, content: 齋, WYG: 開國侯食邑一千六百户食實封四百户康湑為奉使大金國信使副其往返地理日記也成大字至能吳縣人紹興二十四年進士使金歸除中書舍人淳熙五年叅知政事自號石湖孝宗皇帝御書二字以賜之禹貢疆理廣記六卷右長沙易祓編而為之説方輿勝覽四十三卷後集七卷續集二十卷右建安祝穆和父編新安呂千伯可序仰山孚惠廟實錄二十八卷太平興國禪寺附錄六卷右嘉定庚午潘侃重編郡守鄭昉誌於後希弁自庚午以後續錄之為五卷夢華錄一卷右夢想東都之錄也宋敏求京城記載坊門公府宫寺第宅為甚詳而}
   - {type: page-break, offset: 85, content: '', id: KR2n0002_WYG_005-40b, image: WYG0674/WYG0674-0321b.png}
   - {type: page-break, offset: 85, content: '', id: KR2n0002_WYG_005-41a, image: WYG0674/WYG0674-0321c.png}
-  - {type: substitution, offset: 85, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: variant, offset: 87, length: 0, content: '', WYG: 及巷陌店肆節物時好孟元老記錄舊所經歴而為此書坦菴趙師俠識其後金國承安須知一卷右金國名諱及增修朝官職事俸給格式服制地理圖之類也承安葢金主之璟之紀元也時}
   - {type: variant, offset: 88, length: 0, content: '', WYG: 丁巳乃寧宗皇帝慶元三年云傳記錄古列女傳八卷右漢都水}
   - {type: page-break, offset: 88, content: '', id: KR2n0002_WYG_005-41b, image: WYG0674/WYG0674-0321d.png}
@@ -199,7 +193,6 @@ markers:
   - {type: page-break, offset: 89, content: '', id: KR2n0002_WYG_005-43a, image: WYG0674/WYG0674-0322c.png}
   - {type: page-break, offset: 89, content: '', id: KR2n0002_WYG_005-43b, image: WYG0674/WYG0674-0322d.png}
   - {type: page-break, offset: 89, content: '', id: KR2n0002_WYG_005-44a, image: WYG0674/WYG0674-0323a.png}
-  - {type: substitution, offset: 89, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3483}}
   - {type: variant, offset: 94, length: 40, content: 功得不泯沒而觀者按其目而访求之庻亦可使古書之不泯云淳祐巳酉夏五郡守南充游鈞書昭惪, WYG: 孫同然所編也譜}
   - {type: 'kr:newline', offset: 98, content: '
 
@@ -207,13 +200,11 @@ markers:
   - {type: line-break, offset: 98, content: '', id: KR2n0002_SBCK_008-1b04}
   - {type: indent, offset: 98, content: 　　　　　, id: KR2n0002_krp_008-bkkind14}
   - {type: variant, offset: 98, length: 1, content: 沒, SBCK: 􅃿}
-  - {type: substitution, offset: 106, original: 访, replacement: 訪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0237}}
   - {type: 'kr:newline', offset: 107, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl14}
   - {type: line-break, offset: 107, content: '', id: KR2n0002_SBCK_008-1b05}
   - {type: indent, offset: 107, content: 　　　　　, id: KR2n0002_krp_008-bkkind15}
-  - {type: substitution, offset: 109, original: 庻, replacement: 庶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1123}}
   - {type: 'kr:newline', offset: 116, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl15}
@@ -235,15 +226,12 @@ markers:
       ', id: KR2n0002_krp_008-bkkkrnewl18}
   - {type: line-break, offset: 132, content: '', id: KR2n0002_SBCK_008-2a01}
   - {type: indent, offset: 132, content: 　　　　, id: KR2n0002_krp_008-bkkind20}
-  - {type: substitution, offset: 133, original: 惪, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1493}}
   - {type: variant, offset: 136, length: 14, content: 三榮郡齋瀆書志四卷既刋傳矣趙, WYG: 之出處歲月墓表諡議封誥及司馬文正諡議之帖魏文靖公請諡之表并哀辭之類附焉}
-  - {type: substitution, offset: 139, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: 'kr:newline', offset: 142, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl19}
   - {type: line-break, offset: 142, content: '', id: KR2n0002_SBCK_008-2a02}
   - {type: indent, offset: 142, content: 　　　　, id: KR2n0002_krp_008-bkkind21}
-  - {type: substitution, offset: 151, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4457}}
   - {type: variant, offset: 152, length: 13, content: 君錫継從郡貟外司馬帑轄蔡㢘, WYG: 又以先生行狀補其闕三蘇先生年譜一卷右左朝請大夫權發遣成都府路提㸃刑獄公事何棆編山谷先生年譜一卷右先生諸孫􅓌所編也悉譜先生所為詩文於逐年之左極為詳備云朱文公年譜三卷右先生門人李方子所編也盧壯}
   - {type: page-break, offset: 152, content: '', id: KR2n0002_WYG_005-44b, image: WYG0674/WYG0674-0323b.png}
   - {type: 'kr:newline', offset: 153, content: '
@@ -252,13 +240,11 @@ markers:
   - {type: line-break, offset: 153, content: '', id: KR2n0002_SBCK_008-2a03}
   - {type: indent, offset: 153, content: 　　　　, id: KR2n0002_krp_008-bkkind22}
   - {type: variant, offset: 153, length: 1, content: 錫, SBCK: 􅃬}
-  - {type: substitution, offset: 154, original: 継, replacement: 繼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4368}}
   - {type: 'kr:newline', offset: 163, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl21}
   - {type: line-break, offset: 163, content: '', id: KR2n0002_SBCK_008-2a04}
   - {type: indent, offset: 163, content: 　　　　, id: KR2n0002_krp_008-bkkind23}
-  - {type: substitution, offset: 164, original: 㢘, replacement: 廉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1396}}
   - {type: variant, offset: 166, length: 1, content: 淂, WYG: 刻之於瑞陽者為}
   - {type: variant, offset: 168, length: 4, content: 衢本參校, WYG: 册倪灼刻於康廬者}
   - {type: 'kr:newline', offset: 173, content: '
@@ -273,14 +259,11 @@ markers:
   - {type: variant, offset: 178, length: 1, content: 𥙷, WYG: 明道德之常而謂之經}
   - {type: variant, offset: 180, length: 6, content: 缺盖晁氏舊蔵, WYG: 辭簡其㫖逺學者當黙識而深造之其説大槩與政和之詔同鬻子十四篇右楚人鬻熊}
   - {type: page-break, offset: 180, content: '', id: KR2n0002_WYG_005-45b, image: WYG0674/WYG0674-0323d.png}
-  - {type: substitution, offset: 181, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
-  - {type: substitution, offset: 182, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3483}}
   - {type: 'kr:newline', offset: 184, content: '
 
       ', id: KR2n0002_krp_008-bkkkrnewl23}
   - {type: line-break, offset: 184, content: '', id: KR2n0002_SBCK_008-2a06}
   - {type: indent, offset: 184, content: 　　　　, id: KR2n0002_krp_008-bkkind25}
-  - {type: substitution, offset: 185, original: 蔵, replacement: 藏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4423}}
   - {type: variant, offset: 189, length: 1, content: 合, WYG: 逢}
   - {type: variant, offset: 190, length: 1, content: 南, WYG: 行}
   - {type: variant, offset: 191, length: 1, content: 陽, WYG: 珪}
@@ -524,4 +507,4 @@ markers:
 
       ', id: KR2n0002_krp_008-bkkkrnewl30}
   back: []
-hash: sha256:65aa3f06f69cd103c410ef519cd1964c33a042cebd33094c55202894311e00b7
+hash: sha256:eeb90059790391da0070c4c230c087e8661c587ce740d031f5a9c7205e2ae3fc
