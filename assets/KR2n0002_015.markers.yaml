@@ -950,12 +950,14 @@ markers:
       ', id: KR2n0002_krp_015-bkkkrnewl181}
   - {type: line-break, offset: 2721, content: '', id: KR2n0002_SBCK_015-9a06}
   - {type: punctuation, offset: 2735, content: (, id: KR2n0002_krp_015-bkkpn1}
+  - {type: voice, offset: 2735, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2736, content: ), id: KR2n0002_krp_015-bkkpn2}
   - {type: 'kr:newline', offset: 2740, content: '
 
       ', id: KR2n0002_krp_015-bkkkrnewl182}
   - {type: line-break, offset: 2740, content: '', id: KR2n0002_SBCK_015-9a07}
   - {type: punctuation, offset: 2745, content: (, id: KR2n0002_krp_015-bkkpn3}
+  - {type: voice, offset: 2745, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2746, content: ), id: KR2n0002_krp_015-bkkpn4}
   - {type: indent, offset: 2750, content: 　, id: KR2n0002_krp_015-bkkind34}
   - {type: 'kr:newline', offset: 2759, content: '
@@ -6519,6 +6521,7 @@ markers:
   - {type: page-break, offset: 17119, content: '', id: KR2n0002_WYG_008-80b, image: WYG0674/WYG0674-0430b.png}
   - {type: page-break, offset: 17119, content: '', id: KR2n0002_WYG_008-81a, image: WYG0674/WYG0674-0430c.png}
   - {type: page-break, offset: 17119, content: '', id: KR2n0002_WYG_008-81b, image: WYG0674/WYG0674-0430d.png}
+  - {type: voice, offset: 17119, length: 17, name: note, id: n3}
   - {type: variant, offset: 17120, length: 2, content: 字匠, WYG: 誤一卷右皇朝王仲至撰韓柳文章譜三卷右皇朝}
   - {type: page-break, offset: 17120, content: '', id: KR2n0002_WYG_008-82a, image: WYG0674/WYG0674-0431a.png}
   - {type: substitution, offset: 17122, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -6552,4 +6555,4 @@ markers:
 
       ', id: KR2n0002_krp_015-bkkkrnewl1203}
   back: []
-hash: sha256:758c4372ec0e4f59234017e1311f0b96c68b214408ea301884bd3a6b721705fe
+hash: sha256:3bb3dca21780a1062fe34491871a8469b68b7915e31f364105d7bd2b18b3c20d

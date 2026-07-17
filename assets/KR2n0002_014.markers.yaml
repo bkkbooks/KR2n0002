@@ -40,6 +40,7 @@ markers:
       ', id: KR2n0002_krp_014-bkkkrnewl6}
   - {type: line-break, offset: 44, content: '', id: KR2n0002_SBCK_014-1a07}
   - {type: punctuation, offset: 49, content: (, id: KR2n0002_krp_014-bkkpn1}
+  - {type: voice, offset: 49, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 50, content: ), id: KR2n0002_krp_014-bkkpn2}
   - {type: variant, offset: 60, length: 1, content: 博, SBCK: 􅀶}
   - {type: 'kr:newline', offset: 64, content: '
@@ -47,6 +48,7 @@ markers:
       ', id: KR2n0002_krp_014-bkkkrnewl7}
   - {type: line-break, offset: 64, content: '', id: KR2n0002_SBCK_014-1a08}
   - {type: punctuation, offset: 64, content: (, id: KR2n0002_krp_014-bkkpn3}
+  - {type: voice, offset: 64, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 65, content: ), id: KR2n0002_krp_014-bkkpn4}
   - {type: page-break, offset: 66, content: '', id: KR2n0002_WYG_005-1b, image: WYG0674/WYG0674-0301b.png}
   - {type: 'kr:newline', offset: 69, content: '
@@ -69,6 +71,7 @@ markers:
   - {type: line-break, offset: 93, content: '', id: KR2n0002_SBCK_014-1b01}
   - {type: variant, offset: 97, length: 1, content: 袐, WYG: 秘}
   - {type: punctuation, offset: 103, content: (, id: KR2n0002_krp_014-bkkpn5}
+  - {type: voice, offset: 103, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 104, content: ), id: KR2n0002_krp_014-bkkpn6}
   - {type: variant, offset: 109, length: 1, content: 玉, WYG: 王}
   - {type: variant, offset: 110, length: 1, content: 冊, SBCK: 􅁽}
@@ -3783,6 +3786,7 @@ markers:
   - {type: variant, offset: 7959, length: 1, content: 乗, WYG: 乘}
   - {type: substitution, offset: 7959, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: punctuation, offset: 7967, content: (, id: KR2n0002_krp_014-bkkpn7}
+  - {type: voice, offset: 7967, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 7969, content: ), id: KR2n0002_krp_014-bkkpn8}
   - {type: 'kr:newline', offset: 7969, content: '
 
@@ -3954,6 +3958,7 @@ markers:
   - {type: punctuation, offset: 8344, content: (, id: KR2n0002_krp_014-bkkpn9}
   - {type: variant, offset: 8344, length: 2, content: 温州, WYG: ''}
   - {type: substitution, offset: 8344, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
+  - {type: voice, offset: 8344, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 8346, content: ), id: KR2n0002_krp_014-bkkpn10}
   - {type: 'kr:newline', offset: 8346, content: '
 
@@ -7472,4 +7477,4 @@ markers:
   - {type: variant, offset: 15652, length: 0, content: '', WYG: 欽定四庫全書郡齋讀書志卷五下附志宋趙希弁撰}
   - {type: page-break, offset: 15652, content: '', id: KR2n0002_WYG_005-68a, image: WYG0674/WYG0674-0335a.png}
   back: []
-hash: sha256:d7e27880e340fc208c732205e6f9f443e8a3f5a4bae93d243f0527296c007eb4
+hash: sha256:bd8f0b0489f1bf406682a72e7e6a0adaf436e90eb82dd428b9ff6d237697d03f

@@ -4393,6 +4393,7 @@ markers:
   - {type: indent, offset: 10837, content: 　　　, id: KR2n0002_krp_002-bkkind241}
   - {type: punctuation, offset: 10844, content: (, id: KR2n0002_krp_002-bkkpn1}
   - {type: substitution, offset: 10844, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
+  - {type: voice, offset: 10844, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 10852, content: ), id: KR2n0002_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 10852, content: '
 
@@ -5142,4 +5143,4 @@ markers:
   - {type: variant, offset: 12571, length: 0, content: '', WYG: 欽定四庫全書郡齋讀書志卷}
   - {type: page-break, offset: 12571, content: '', id: KR2n0002_WYG_003-1a, image: WYG0674/WYG0674-0212c.png}
   back: []
-hash: sha256:d5507155e572a72deacf76107fa71b4b70f3f2768ee783301c4fe345a591ed27
+hash: sha256:0fd6554d9f0f461aaf646210608d6797f181d942f9b73f1e604f6bc96bf1a8d4
